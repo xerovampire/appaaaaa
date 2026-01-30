@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GestureControlApp</string>
+    <string name="accessibility_service_description">Allows the app to detect gestures and perform scrolling actions.</string>
+</resources>
